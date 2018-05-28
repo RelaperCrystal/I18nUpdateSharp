@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
 [assembly: AssemblyTitle("TranslateA")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("从外部更新 Minecraft 汉化资源包，不需要启动游戏，不需要打开浏览器。一键下载更新模组，快速省事。缓存最新汉化资源包。")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Microsoft")]
+[assembly: AssemblyCompany("RelaperCrystal")]
 [assembly: AssemblyProduct("TranslateA")]
-[assembly: AssemblyCopyright("Copyright © Microsoft 2018")]
+[assembly: AssemblyCopyright("Copyright © RelaperCrystal 2018. This software is under the GNU GPL v3.")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
